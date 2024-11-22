@@ -37,3 +37,5 @@ Windows\System32\$LOCALE Qutil.dll.mui VANPatch
 Windows\System32\$LOCALE osk.exe.mui Accessibility
 Windows\System32\$LOCALE Magnification.dll.mui Accessibility
 Windows\System32\$LOCALE Magnify.exe.mui Accessibility
+Windows\System32\$LOCALE winlogon.exe.mui.res ALL
+Windows\System32\$LOCALE PerfCenterCPL.dll.mui ALL
